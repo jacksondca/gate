@@ -2,7 +2,7 @@
 
 This repository contains the source code for our paper: **Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities**.
 
-
+[![DOI](https://zenodo.org/badge/989961787.svg)](https://doi.org/10.5281/zenodo.15523070)
 
 
 ## 1 Abstract
